@@ -1,0 +1,7 @@
+[{
+    "Name": "filemanager",
+    "Description": "Files manager",
+    "Tags": ["tree", "files", "directories", "manager"],
+    "Website": "https://github.com/tagirmukail/micro-tree-plugin",
+    "Versions": []
+}]
